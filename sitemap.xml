@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://rsfitnesservice.com/</loc>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>https://rsfitnesservice.com/about/</loc>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>https://rsfitnesservice.com/service/</loc>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>https://rsfitnesservice.com/contact/</loc>
+      <changefreq>monthly</changefreq>
+   </url>
+</urlset>
